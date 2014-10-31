@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../PArticulo/PArticulo/MainWindow.cs">
+    <Files>
+      <File FileName="../PArticulo/PArticulo/Main.cs" Line="10" Column="42" />
+      <File FileName="../PArticulo/PArticulo/MainWindow.cs" Line="127" Column="3" />
+      <File FileName="../PArticulo/PArticulo/EditarCategoriaView.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Option id="ShowVersionControlOverlays" value="True" />
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="PArticulo" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="gtk-gui" expanded="True" />
+          </Node>
+          <Node name="PArticulo.sln" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
